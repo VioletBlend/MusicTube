@@ -10,15 +10,11 @@
 
 ```bash
 
-<br>
-
 git clone https://github.com/VioletBlend/MusicTube
 cd MusicTube
 npm init -y
 npm install
 npm start
-
-<br>
 
 ```
 
@@ -30,15 +26,11 @@ npm start
 
 ```
 
-<br>
-
 Node.js (v18 or later recommended)
 
 npm
 
 Git
-
-<br>
 
 ```
 
@@ -49,7 +41,7 @@ Git
 <br>
 
 
-🖥️ Run The Apps
+🖥️ Running 
 
 <br>
 
