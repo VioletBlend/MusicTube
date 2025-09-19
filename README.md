@@ -1,4 +1,4 @@
-# Your Music Tube 🎵🎵
+# YourTube 🎵🎵
 
 <br>
 
@@ -28,7 +28,7 @@ npm start
 
 <br>
 
-📦 Requirements
+# 📦 Requirements
 
 ```
 
@@ -46,10 +46,6 @@ Git
 
 <br>
 
-<br>
+🖥️ 
 
-🖥️ You did it !!!!!
-
-<br>
-
-After Running npm start, The Electron Window should launch Automatically.
+# After Running npm start, The Electron Window should launch Automatically.
