@@ -1,4 +1,4 @@
-# 🎵 Party MusicTube Dance
+# 🎵 Electron based GUI YT Downloader
 
 <br>
 
