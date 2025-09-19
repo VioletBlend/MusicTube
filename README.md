@@ -1,3 +1,7 @@
+<br>
+
+<br>
+
 # 📦 Requirements
 
 <br>
@@ -12,6 +16,8 @@ Node.js (v18 OR later recommended)
 npm
 
 Git
+
+Electron Forge
 ```
 
 <br>
@@ -29,10 +35,6 @@ Git
 git clone https://github.com/VioletBlend/MusicTube
 
 cd MusicTube
-
-cd MusicTube
-
-npm init -y
 
 npm install
 
