@@ -10,9 +10,13 @@
 
 <br>
 
-Simple Electron + Node.js music app.
+Simple Electron + Node.js YouTube Desktop Clients
 
-## 🚀 Getting Started
+<br>
+
+<br>
+
+## Getting Started
 
 <br>
 
@@ -28,6 +32,10 @@ npm install
 npm start
 
 ```
+
+<br>
+
+<br>
 
 📦 Requirements
 
