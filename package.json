@@ -1,0 +1,48 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "YouTube音楽を再生・管理できるElectronアプリ",
+  "main": "main.js",
+  "scripts": {
+    "server": "node server.js",
+    "start": "electron-forge start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "keywords": [],
+  "author": "VioletBlend",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.9.0",
+    "@electron-forge/maker-deb": "^7.9.0",
+    "@electron-forge/maker-rpm": "^7.9.0",
+    "@electron-forge/maker-squirrel": "^7.9.0",
+    "@electron-forge/maker-zip": "^7.9.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.9.0",
+    "@electron-forge/plugin-fuses": "^7.9.0",
+    "@electron/fuses": "^1.8.0",
+    "electron": "^38.1.2",
+    "electron-packager": "^17.1.2"
+  },
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "electron-squirrel-startup": "^1.0.1",
+    "express": "^5.1.0"
+  },
+  "type": "commonjs",
+  "config": {
+    "forge": {
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "my_electron_app",
+            "authors": "VioletBlend",
+            "description": "YouTube音楽を再生・管理できるElectronアプリ"
+          }
+        }
+      ]
+    }
+  }
+}
