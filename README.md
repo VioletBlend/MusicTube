@@ -22,6 +22,8 @@ npm start
 
 <br>
 
+<br>
+
 # 📦 Requirements
 
 <br>
@@ -46,6 +48,6 @@ Git
 
 🖥️ 
 
-## After Running npm start, 
+After Running npm starts, 
 
-## The Electron Window should launch Automatically.
+Electron Window should launch Automatically.
