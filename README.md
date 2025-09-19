@@ -28,7 +28,7 @@ Electron Forge
 
 <br>
 
-# 🌳 How to This Works？
+# 🌳 How it works？
 <br>
 
 ```bash
