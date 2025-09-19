@@ -6,6 +6,8 @@
 
 <br>
 
+⌘　コマンドプロンプト
+
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
