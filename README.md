@@ -36,6 +36,8 @@ git clone https://github.com/VioletBlend/MusicTube
 
 cd MusicTube
 
+cd MusicTube
+
 npm init -y
 
 npm install
