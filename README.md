@@ -40,3 +40,7 @@ npm install
 
 npm start
 ```
+
+# 🔎 参照させてもらった記事
+
+https://ics.media/entry/7298/
