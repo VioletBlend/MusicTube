@@ -8,6 +8,10 @@
 
 ⌘　コマンドプロンプト
 
+<br>
+
+<br>
+
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
@@ -29,6 +33,10 @@ npm start
 <br>
 
 📦 Requirements
+
+<br>
+
+<br>
 
 ```
 
@@ -70,3 +78,7 @@ After running npm start, the Electron window should launch automatically.
 This project is licensed under the MIT License.
 
 <br>
+
+<br>
+
+
