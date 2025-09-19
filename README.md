@@ -1,4 +1,4 @@
-# 🎵 Electron based GUI YT Downloader
+# 🎵 Electron GUI Applications
 
 <br>
 
@@ -46,8 +46,14 @@ Git
 
 <br>
 
+```
+
 🖥️ 
 
 After Running npm starts, 
 
 Electron Window should launch Automatically.
+
+```
+
+
