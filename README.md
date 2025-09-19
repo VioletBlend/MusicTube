@@ -41,30 +41,13 @@ Git
 <br>
 
 
-🖥️ Running 
+🖥️ Run
 
 <br>
 
 <br>
 
 After running npm start, the Electron window should launch automatically.
-
-<br>
-
-<br>
-
-<br>
-
-📄 License
-
-<br>
-
-<br>
-
-This project is licensed under the MIT License.
-
-<br>
-
 <br>
 
 
