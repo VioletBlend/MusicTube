@@ -1,17 +1,3 @@
-# Let's get Started
-
-<br>
-
-<br>
-
-<br>
-
-⌘　コマンドプロンプト
-
-<br>
-
-<br>
-
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
