@@ -1,4 +1,4 @@
-# 🎵 YourTube 
+# 🎵 Party MusicTube Dance
 
 <br>
 
@@ -46,4 +46,6 @@ Git
 
 🖥️ 
 
-# After Running npm start, The Electron Window should launch Automatically.
+## After Running npm start, 
+
+## The Electron Window should launch Automatically.
