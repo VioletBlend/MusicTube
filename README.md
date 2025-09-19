@@ -22,13 +22,11 @@ npm start
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
 # 📦 Requirements
+
+<br>
+
+<br>
 
 ```
 
