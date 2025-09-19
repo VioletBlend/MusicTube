@@ -4,11 +4,19 @@
 
 <br>
 
-## MusicTube 🎵
+## MusicTube 
 
-A simple Electron + Node.js music app.
+<br>
+
+<br>
+
+Simple Electron + Node.js music app.
 
 ## 🚀 Getting Started
+
+<br>
+
+<br>
 
 Clone the repository and install dependencies:
 
