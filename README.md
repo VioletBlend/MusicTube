@@ -1,11 +1,3 @@
-# 🎵 electron & Node.js
-
-<br>
-
-<br>
-
-<br>
-
 # 📦 Requirements
 
 <br>
