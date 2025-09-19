@@ -4,6 +4,8 @@
 
 <br>
 
+<br>
+
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
@@ -17,6 +19,8 @@ npm install
 npm start
 
 ```
+
+<br>
 
 <br>
 
