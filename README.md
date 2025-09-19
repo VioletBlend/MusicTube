@@ -1,3 +1,11 @@
+# Your Music Tube 🎵🎵
+
+<br>
+
+<br>
+
+<br>
+
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
@@ -45,9 +53,4 @@ Git
 
 <br>
 
-<br>
-
-After running npm start, the Electron window should launch automatically.
-<br>
-
-
+After Running npm start, The Electron Window should launch Automatically.
