@@ -1,7 +1,3 @@
-<br>
-
-<br>
-
 # Let's get Started
 
 <br>
@@ -11,9 +7,13 @@
 ```bash
 
 git clone https://github.com/VioletBlend/MusicTube
+
 cd MusicTube
+
 npm init -y
+
 npm install
+
 npm start
 
 ```
@@ -26,7 +26,7 @@ npm start
 
 ```
 
-Node.js (v18 or later recommended)
+Node.js (v18 OR later recommended)
 
 npm
 
@@ -64,13 +64,3 @@ After running npm start, the Electron window should launch automatically.
 This project is licensed under the MIT License.
 
 <br>
-
-<br>
-
-<br>
-
-👤 著者
-
-https://github.com/VioletBlend
-
-©2025.9.19
