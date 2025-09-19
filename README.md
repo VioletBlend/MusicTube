@@ -1,22 +1,8 @@
-# ファイル置き場（electron構築用）
-
 <br>
 
 <br>
 
-## MusicTube 
-
-<br>
-
-<br>
-
-Simple Electron + Node.js YouTube Desktop Software.
-
-<br>
-
-<br>
-
-## Getting Started
+# Let's get Started
 
 <br>
 
