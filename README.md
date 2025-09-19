@@ -24,7 +24,12 @@ Git
 
 <br>
 
-# 🌳 How To Running this Apps ?
+<br>
+
+<br>
+
+# 🌳 How to This Works
+<br>
 
 ```bash
 git clone https://github.com/VioletBlend/MusicTube
