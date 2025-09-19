@@ -10,7 +10,7 @@
 
 <br>
 
-Simple Electron + Node.js YouTube Desktop Clients
+Simple Electron + Node.js YouTube Desktop Software.
 
 <br>
 
@@ -22,14 +22,17 @@ Simple Electron + Node.js YouTube Desktop Clients
 
 <br>
 
-Clone the repository and install dependencies:
-
 ```bash
+
+<br>
+
 git clone https://github.com/VioletBlend/MusicTube
 cd MusicTube
 npm init -y
 npm install
 npm start
+
+<br>
 
 ```
 
@@ -40,26 +43,49 @@ npm start
 📦 Requirements
 
 ```
+
+<br>
+
 Node.js (v18 or later recommended)
 
 npm
 
 Git
+
+<br>
+
 ```
 
 <br>
 
 <br>
 
-🖥️ Run the App
+<br>
+
+
+🖥️ Run The Apps
+
+<br>
+
+<br>
+
 After running npm start, the Electron window should launch automatically.
 
 <br>
 
 <br>
 
+<br>
+
 📄 License
+
+<br>
+
+<br>
+
 This project is licensed under the MIT License.
+
+<br>
 
 <br>
 
@@ -68,3 +94,5 @@ This project is licensed under the MIT License.
 👤 著者
 
 https://github.com/VioletBlend
+
+©2025.9.19
